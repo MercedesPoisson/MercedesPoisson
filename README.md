@@ -3,7 +3,10 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%4A454B&size=25&center=true&vCenter=true&width=600&height=100&lines=I+Am+A+Full+Stack+Developer,;Welcome+to+my+Github"></a>
 </p>
-<p>I am driven by a constant desire to learn and keep up with the ever-evolving world of web development. I am excited about the challenges and opportunities that come with being a full stack developer, and I am eager to contribute my skills and enthusiasm to create engaging and impactful web experiences.</p>
+<p>After completing the Soy Henry bootcamp, whith +700 hours of lectures and coding exercises, I am driven by an unwavering passion for learning and staying up-to-date with the ever-evolving field of web development. I thrive on the challenges and opportunities that come with being a full stack developer, and I am eager to apply my skills and enthusiasm to create compelling and impactful web experiences.</p>
+
+- 🔭 I’m currently studying TypeScript borderless - Udemy
+- 🤔 I’m seeking for advice on which technologies to learn next to enhance my front-end development skills in terms of UX.. please let mi know your opinion 📫
 
 ## Tech-Skills
 ### Language:
