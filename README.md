@@ -25,19 +25,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ## Contact Me
-<a href="https://www.linkedin.com/in/mercedespoisson">
-  <img align="left" alt="Apurv's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://wa.me/1158335017">
-  <img align="left" alt="Apurv's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/whatsapp.svg" />
-</a>
-<a href="mailto:mercedespoisson@yahoo.com">
-  <img align="left" alt="Apurv's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/yahoo.svg" />
-</a>
-
-
-
-
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mercedespoisson/)](https://www.linkedin.com/in/mercedespoisson/)
+![Gmail Badge](https://img.shields.io/badge/-Gmail-DD4B39?style=flat&logo=Gmail&logoColor=white&link=mailto:mercedespoisson@gmail.com)
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-4AC959?style=flat&logo=whatsapp&logoColor=white&link=https://wa.me/1158335017)](https://wa.me/1158335017)
+![Yahoo Badge](https://img.shields.io/badge/-Yahoo-6E1A8D?style=flat&logo=yahoo&logoColor=white&link=mailto:mercedespoisson@yahoo.com)
 
 <!--
 **MercedesPoisson/MercedesPoisson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
