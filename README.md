@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi , I'm Mechi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%4A454B&size=25&center=true&vCenter=true&width=600&height=100&lines=I+Am+A+Full+Stack+Developer,;Welcome+to+my+Github"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%4A454B&size=25&center=true&vCenter=true&width=600&height=100&lines=I+Am+A+Full+Stack+Developer,;Welcome+to+my+Github">
 </p>
 <p>After completing the Soy Henry bootcamp, whith +700 hours of lectures and coding exercises, I am driven by an unwavering passion for learning and staying up-to-date with the ever-evolving field of web development. I thrive on the challenges and opportunities that come with being a full stack developer, and I am eager to apply my skills and enthusiasm to create compelling and impactful web experiences.</p>
 
