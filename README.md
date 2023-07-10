@@ -29,6 +29,30 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+## My Projects
+<div style="display: flex; gap: 20px;">
+  <div style="flex: 1;">
+    <a href="https://youtu.be/EI7aJW3Hgww">
+      <img src="https://img.youtube.com/vi/EI7aJW3Hgww/0.jpg" alt="Video Title" style="width: 320px; height: 180px; object-fit: cover;">
+    </a>
+    <p>Airebnb</p>
+  </div>
+  
+  <div style="flex: 1;">
+    <a href="https://youtu.be/SJvKPsnBYao">
+      <img src="https://img.youtube.com/vi/SJvKPsnBYao/0.jpg" alt="Video Title" style="width: 320px; height: 180px; object-fit: cover;">
+    </a>
+    <p>FoodieLovers</p>
+  </div>
+  
+  <div style="flex: 1;">
+    <a href="https://youtu.be/gX0y3v-uYy4">
+      <img src="https://img.youtube.com/vi/gX0y3v-uYy4/0.jpg" alt="Video Title" style="width: 320px; height: 180px; object-fit: cover;">
+    </a>
+    <p>Rick&Morty</p>
+  </div>
+</div>
+
 ## Get in touch
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mercedespoisson/)](https://www.linkedin.com/in/mercedespoisson/)
 ![Gmail Badge](https://img.shields.io/badge/-Gmail-DD4B39?style=flat&logo=Gmail&logoColor=white&link=mailto:mercedespoisson@gmail.com)
