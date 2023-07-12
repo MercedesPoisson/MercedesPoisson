@@ -10,11 +10,12 @@
 - 🤔 I’m seeking for advice on which technologies to learn next to enhance my front-end development skills in terms of UX.. please let mi know your opinion 📫
 
 ## Tech-Skills
-### Language:
+### Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+
 ### Libraries & Frameworks
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)&nbsp;
@@ -24,11 +25,17 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+### Third Party Integration
+[![Auth0](https://img.shields.io/badge/-Auth0-05122A?style=flat&logo=auth0&logoColor=EB5424)](https://auth0.com/)&nbsp;
+[![NodeMailer](https://img.shields.io/badge/-NodeMailer-05122A?style=flat&logo=nodemailer&logoColor=FFFFFF)](https://nodemailer.com/)&nbsp;
+[![Cloudinary](https://img.shields.io/badge/-Cloudinary-05122A?style=flat&logo=cloudinary&logoColor=FFFFFF)](https://cloudinary.com/)&nbsp;
+[![Mercado Pago](https://img.shields.io/badge/-Mercado%20Pago-05122A?style=flat&logo=mercadopago&logoColor=FDBF00)](https://www.mercadopago.com/)&nbsp;
 ## My Projects
 <div style="display: flex; gap: 20px;">
   <div style="flex: 1;">
