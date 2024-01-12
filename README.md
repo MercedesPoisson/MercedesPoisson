@@ -5,9 +5,9 @@
 </p>
 <p>After completing the Soy Henry bootcamp, whith +700 hours of lectures and coding exercises, I am driven by an unwavering passion for learning and staying up-to-date with the ever-evolving field of web development. I thrive on the challenges and opportunities that come with being a full stack developer, and I am eager to apply my skills and enthusiasm to create compelling and impactful web experiences.</p>
 
-- 🌱 I would like to focus my career towards front-end design and visual asset creation
-- 🔭 I’m currently studying UX/UI design
-- 🤔 I’m seeking for advice on which technologies to learn next to enhance my front-end development skills in terms of UX.. please let mi know your opinion 📫
+- 🚀 My passion lies in front-end design, and I thoroughly enjoy crafting visually appealing digital experiences.
+- 🎨 Proud graduate of UX/UI design studies, honing my skills to create seamless user interfaces.
+- 🤔 Seeking advice on diving into React Native to further elevate my front-end development expertise with a focus on UX. Your insights are highly appreciated! 📫
 
 ## Tech-Skills
 ### Programming Languages
