@@ -3,11 +3,17 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%4A454B&size=25&center=true&vCenter=true&width=600&height=100&lines=I+am+a+Full+Stack+Developer,;I+am+a+UX/UI+Designer,;Welcome+to+my+Github">
 </p>
-<p>After completing the Soy Henry bootcamp, whith +700 hours of lectures and coding exercises, I am driven by an unwavering passion for learning and staying up-to-date with the ever-evolving field of web development. I thrive on the challenges and opportunities that come with being a full stack developer, and I am eager to apply my skills and enthusiasm to create compelling and impactful web experiences.</p>
+<p>Welcome to my GitHub! 👋
 
-- 🚀 My passion lies in front-end design, and I thoroughly enjoy crafting visually appealing digital experiences.
-- 🎨 Proud graduate of UX/UI design studies, honing my skills to create seamless user interfaces.
-- 🤔 Seeking advice on diving into React Native to further elevate my front-end development expertise with a focus on UX. Your insights are highly appreciated! 📫
+🚀 I'm a Full Stack Developer. Over the past year, I've dedicated myself to learning how to create web applications that not only address needs but also provide the best user experience. 💻
+
+My primary language is JavaScript, but along the way, I've fallen in love with TypeScript, a language I've used for most of my projects. I employ technologies like React and Redux for the frontend, and I've delved into Next.js alongside Redux Toolkit for more complex projects. On the backend, I utilize Node.js and Express, working with relational databases like PostgreSQL and Sequelize for efficient data management.
+
+🎨 I predominantly use TailwindCSS to craft visually appealing, responsive web designs. 🔍 What I enjoy most about this journey is tackling new challenges that enable me to continue growing. I firmly believe that practice and continuous learning are key to staying up-to-date in this ever-evolving technological world. Recently, I've been delving into mobile development, honing my skills in React Native to provide comprehensive, cross-platform solutions. 🚀.
+
+🏢 To complement my frontend skills, I completed a UX/UI design course at 'Codo a Codo'. This provided me with tools to create user-centric interfaces and effectively plan each project, ultimately saving a lot of time. 🌟
+</p>
+
 
 ## Tech-Skills
 ### Programming Languages
@@ -39,6 +45,14 @@
 [![Mercado Pago](https://img.shields.io/badge/-Mercado%20Pago-05122A?style=flat&logo=mercadopago&logoColor=FDBF00)](https://www.mercadopago.com/)&nbsp;
 ## My Projects
 <div style="display: flex; gap: 20px;">
+
+<div style="flex: 1;">
+    <a href="https://youtu.be/kLPVen4A0jU">
+      <img src="https://img.youtube.com/vi/kLPVen4A0jU/0.jpg" alt="Video Title" style="width: 320px; height: 180px; object-fit: cover;">
+    </a>
+    <p>Timbring</p>
+  </div>
+
   <div style="flex: 1;">
     <a href="https://youtu.be/EI7aJW3Hgww">
       <img src="https://img.youtube.com/vi/EI7aJW3Hgww/0.jpg" alt="Video Title" style="width: 320px; height: 180px; object-fit: cover;">
