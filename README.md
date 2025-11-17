@@ -3,15 +3,17 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%4A454B&size=25&center=true&vCenter=true&width=600&height=100&lines=I+am+a+Full+Stack+Developer,;I+am+a+UX/UI+Designer,;Welcome+to+my+Github">
 </p>
-<p>Welcome to my GitHub! 👋
 
-🚀 I'm a Full Stack Developer. Over the past year, I've dedicated myself to learning how to create web applications that not only address needs but also provide the best user experience. 💻
+<p>
+Welcome to my GitHub! 👋<br><br>
 
-My primary language is JavaScript, but along the way, I've fallen in love with TypeScript, a language I've used for most of my projects. I employ technologies like React and Redux for the frontend, and I've delved into Next.js alongside Redux Toolkit for more complex projects. On the backend, I utilize Node.js and Express, working with relational databases like PostgreSQL and Sequelize for efficient data management.
+🚀 I'm a <b>Full Stack Developer specialized in backend engineering and multi-tenant SaaS architectures</b>.<br><br>
 
-🎨 I predominantly use TailwindCSS to craft visually appealing, responsive web designs. 🔍 What I enjoy most about this journey is tackling new challenges that enable me to continue growing. I firmly believe that practice and continuous learning are key to staying up-to-date in this ever-evolving technological world. Recently, I've been delving into mobile development, honing my skills in React Native to provide comprehensive, cross-platform solutions. 🚀.
+I design and build scalable APIs with <b>Node.js / NestJS</b>, dynamic multi-tenant connections, distributed coordination layers, and synchronized data systems with guaranteed integrity. My work focuses on backend-heavy platforms involving <b>inventory/asset management</b>, multi-office data flows, and complex state machines.<br><br>
 
-🏢 To complement my frontend skills, I completed a UX/UI design course at 'Codo a Codo'. This provided me with tools to create user-centric interfaces and effectively plan each project, ultimately saving a lot of time. 🌟
+On the frontend, I build high-performance interfaces using <b>Next.js, React, TanStack Query, react-hook-form + Zod</b>, and real-time dashboards. I combine my UX/UI background with strong architectural thinking to create product experiences that scale.<br><br>
+
+🔥 I love solving hard problems, designing clean systems, and turning messy requirements into elegant technical solutions.
 </p>
 
 
