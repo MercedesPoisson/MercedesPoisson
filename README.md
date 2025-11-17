@@ -45,6 +45,7 @@ On the frontend, I build high-performance interfaces using <b>Next.js, React, Ta
 [![NodeMailer](https://img.shields.io/badge/-NodeMailer-05122A?style=flat&logo=nodemailer&logoColor=FFFFFF)](https://nodemailer.com/)&nbsp;
 [![Cloudinary](https://img.shields.io/badge/-Cloudinary-05122A?style=flat&logo=cloudinary&logoColor=FFFFFF)](https://cloudinary.com/)&nbsp;
 [![Mercado Pago](https://img.shields.io/badge/-Mercado%20Pago-05122A?style=flat&logo=mercadopago&logoColor=FDBF00)](https://www.mercadopago.com/)&nbsp;
+<!--
 ## My Projects
 <div style="display: flex; gap: 20px;">
 
@@ -83,7 +84,7 @@ On the frontend, I build high-performance interfaces using <b>Next.js, React, Ta
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-4AC959?style=flat&logo=whatsapp&logoColor=white&link=https://wa.me/1158335017)](https://wa.me/1158335017)
 ![Yahoo Badge](https://img.shields.io/badge/-Yahoo-6E1A8D?style=flat&logo=yahoo&logoColor=white&link=mailto:mercedespoisson@yahoo.com)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-05122A?style=flat&logo=portfolio&logoColor=white&link=https://portfolio-blush-three-21.vercel.app/)](https://portfolio-blush-three-21.vercel.app/)
-
+-->
 <!--
 **MercedesPoisson/MercedesPoisson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
