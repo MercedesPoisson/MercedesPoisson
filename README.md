@@ -21,30 +21,40 @@ On the frontend, I build high-performance interfaces using <b>Next.js, React, Ta
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
-### Libraries & Frameworks
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
-![Sequelize](https://img.shields.io/badge/-Sequelize-05122A?style=flat&logo=sequelize)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+### 🧩 Backend & Architecture
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs)
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+![Mongoose](https://img.shields.io/badge/-Mongoose-05122A?style=flat&logo=mongoose)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)
+![NeonDB](https://img.shields.io/badge/-Neon-05122A?style=flat&logo=neon)
+![JWT](https://img.shields.io/badge/-JWT-05122A?style=flat&logo=jsonwebtokens)
 
-### Tools
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+### 🌐 Frontend
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
+![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-05122A?style=flat&logo=reactquery)
+![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-05122A?style=flat&logo=reacthookform)
+![Zod](https://img.shields.io/badge/-Zod-05122A?style=flat&logo=zod)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwindcss)
 
-### Third Party Integration
-[![Auth0](https://img.shields.io/badge/-Auth0-05122A?style=flat&logo=auth0&logoColor=EB5424)](https://auth0.com/)&nbsp;
-[![NodeMailer](https://img.shields.io/badge/-NodeMailer-05122A?style=flat&logo=nodemailer&logoColor=FFFFFF)](https://nodemailer.com/)&nbsp;
-[![Cloudinary](https://img.shields.io/badge/-Cloudinary-05122A?style=flat&logo=cloudinary&logoColor=FFFFFF)](https://cloudinary.com/)&nbsp;
-[![Mercado Pago](https://img.shields.io/badge/-Mercado%20Pago-05122A?style=flat&logo=mercadopago&logoColor=FDBF00)](https://www.mercadopago.com/)&nbsp;
+### 🧰 Tools & DevOps
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![VSCode](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
+![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)
+
+### 🔗 Third-Party Integrations
+![Auth0](https://img.shields.io/badge/-Auth0-05122A?style=flat&logo=auth0)
+![Nodemailer](https://img.shields.io/badge/-Nodemailer-05122A?style=flat&logo=nodemailer)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-05122A?style=flat&logo=cloudinary)
+![Mercado Pago](https://img.shields.io/badge/-Mercado%20Pago-05122A?style=flat&logo=mercadopago)
+![Stripe](https://img.shields.io/badge/-Stripe-05122A?style=flat&logo=stripe)
+![Google APIs](https://img.shields.io/badge/-Google%20APIs-05122A?style=flat&logo=google)
 <!--
 ## My Projects
 <div style="display: flex; gap: 20px;">
